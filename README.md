@@ -1,9 +1,9 @@
-🛒 Nostra - Responsive E-commerce Clothing Website
+****🛒 Nostra - Responsive E-commerce Clothing Website
 Nostra is a fully responsive, front-end clothing e-commerce website built using HTML, CSS, and JavaScript. It is designed to provide a seamless and engaging user experience across all devices — from mobile phones to large desktop screens.
 
 This project showcases the foundational structure of a modern e-commerce platform, complete with interactive UI components, clean layouts, and responsive behavior. It’s ideal as a template or starting point for developers looking to build an online store or practice front-end development.
 
-📌 Overview
+****📌 Overview
 The goal of this project is to simulate the look and feel of a real online clothing store. Nostra features a stylish, minimalistic design that is user-friendly and intuitive. It uses standard web technologies with a focus on responsiveness and interactivity.
 
 The website includes multiple sections commonly found in e-commerce sites, such as:
@@ -18,7 +18,7 @@ Newsletter sign-up
 
 Navigation and footer with links
 
-✨ Features
+****✨ Features
 💻 Fully Responsive Design
 Built using CSS media queries to adapt seamlessly across mobile, tablet, and desktop devices.
 
@@ -34,7 +34,7 @@ A responsive and collapsible menu for easy navigation on small screens.
 🌙 Modern UI/UX
 Visually appealing design with modern fonts, colors, and spacing for a professional feel.
 
-🛠️ Technologies Used
+****🛠️ Technologies Used
 HTML5 – Semantic structure and layout
 
 CSS3 – Styling, layout, and responsiveness with media queries
